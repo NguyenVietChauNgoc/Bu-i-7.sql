@@ -24,3 +24,16 @@ GROUP BY manufacturer
 ORDER BY SUM(total_sales) DESC, manufacturer;
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
